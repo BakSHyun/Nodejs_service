@@ -1,0 +1,25 @@
+{
+  "name": "server_node",
+  "version": "1.0.0",
+  "description": "medipix_local",
+  "main": "index.js",
+  "scripts": {
+    "test": "this is test welcome to hell"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakSHyun/work_medipix.git"
+  },
+  "keywords": [
+    "work_medi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BakSHyun/work_medipix/issues"
+  },
+  "homepage": "https://github.com/BakSHyun/work_medipix#readme",
+  "dependencies": {
+    "imagemagick": "^0.1.3"
+  }
+}
